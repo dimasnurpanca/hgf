@@ -1,0 +1,1 @@
+(function(t,r,i,p){i=t.createElement(r);i.src="https://www.tripadvisor.com/WidgetEmbed-certificateOfExcellence?amp;locationId=8769578&amp;uniq=119&amp;year=2018&amp;lang=en_US&amp;display_version=2";i.async=true;p=t.getElementsByTagName(r)[0];p.parentNode.insertBefore(i,p)})(document,"script");
